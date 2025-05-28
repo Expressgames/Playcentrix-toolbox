@@ -1,1 +1,3 @@
-message-hi
+message-Hello, boss!
+exit
+exit-notepad.exe
