@@ -1,2 +1,2 @@
-version=7
-url=https://drive.google.com/uc?export=download&id=1fiiXiXpkUXnGi5CbK5wOgSC1T6mH5AQp
+version=2
+url=https://store8.gofile.io/download/web/7aa48df2-9128-4007-8e67-abdfdb0bdc8e/Update.zip
