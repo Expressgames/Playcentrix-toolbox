@@ -1,2 +1,4 @@
-message-Time Over
-10
+[
+    {"command": "message", "text": "Time Over"},
+    {"command": "shutdown", "delay": 9}
+]
