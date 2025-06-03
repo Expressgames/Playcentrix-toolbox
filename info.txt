@@ -1,2 +1,2 @@
-exit
-2
+shutdown
+3
