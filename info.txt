@@ -1,2 +1,3 @@
-shutdown
-3
+message-testworking
+exit
+123
